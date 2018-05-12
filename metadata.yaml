@@ -1,0 +1,42 @@
+_repo: What-Bird-is-That---13-A-Pocket-Museum-of-the-Land-Birds-of-the-Eastern-United-States-Arrange__31751
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sawyer, Edmund J. (Edmund Joseph)
+    aliases:
+    - Sawyer, E. J. (Edmund Joseph)
+    - Sawyer, Edmund Joseph
+    birthdate: 1880
+    deathdate: 1971
+    gutenberg_agent_id: '35446'
+    url: http://www.gutenberg.org/2009/agents/35446
+covers:
+- cover_type: archival
+  image_path: 31751-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Chapman, Frank M. (Frank Michler)
+    alias: Chapman, Frank Michler
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '35445'
+    url: http://www.gutenberg.org/2009/agents/35445
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2010-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31751'
+  lccn: '20007850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Birds -- United States'
+title: "What Bird is That?\r\nA Pocket Museum of the Land Birds of the Eastern United\
+  \ States Arranged According to Season"
+url: http://www.gutenberg.org/ebooks/31751
